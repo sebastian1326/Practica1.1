@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Masculino">"button_m "</string>
+    <string name="button_m">Masculino</string>
+    <string name="button_f">Femenino</string>
+    <string name="check_1">Ajedrez</string>
+    <string name="check_2">Caminar</string>
+    <string name="date_name">Nombre</string>
+    <string name="date_email">Correo electronico</string>
+    <string name="date_pass">Contraseña</string>
+    <string name="date_cpass">Confirmar Contraseña</string>
+    <string name="check_3">Video Juegos</string>
+    <string name="check_4">Peliculas</string>
+</resources>
