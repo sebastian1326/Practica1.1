@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="Masculino">"button_m "</string>
+    <string name="app_name">Formulario</string>
     <string name="button_m">Masculino</string>
     <string name="button_f">Femenino</string>
     <string name="check_1">Ajedrez</string>
@@ -11,4 +10,22 @@
     <string name="date_cpass">Confirmar Contraseña</string>
     <string name="check_3">Video Juegos</string>
     <string name="check_4">Peliculas</string>
+    <string name="register">Registrar</string>
+    <string name="text_out" />
+    <string name="text_g">Genero</string>
+    <string name="text_h">Pasa tiempos</string>
+    <string name="text_city">Ciudad de Nacimiento</string>
+    <string name="date_b">Fecha de nacimiento</string>
+    <string name="button_date_b">dd/mm/aa</string>
+    <string name="text_f">Formulario de Registro</string>
+    <string name="verf1">Campos vacios, verifique sus datos</string>
+    <string name="verf2">Las contraseñas no coinciden, verifique</string>
+    <string name="inf">Nombre: %s Email: %s Contraseña: %s Genero: %s Pasatiempos: %s Lugar de nacimiento:%s Fecha de nacimiento:%s</string>
+    <string-array name="city">
+        <item>Cali,Valle</item>
+        <item>Medellin,Ant</item>
+        <item>Manizales,Caldas</item>
+        <item>Pereira,R</item>
+        <item>Popayan,Cauca</item>
+    </string-array>
 </resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulary</string>
+    <string name="button_m">Male</string>
+    <string name="button_f">Feminine</string>
+    <string name="check_1">Chess</string>
+    <string name="check_2">Walk</string>
+    <string name="date_name">Name</string>
+    <string name="date_email">Email</string>
+    <string name="date_pass">Password</string>
+    <string name="date_cpass">Confirm password</string>
+    <string name="check_3">Video Games </string>
+    <string name="check_4">Films</string>
+    <string name="register">Register</string>
+    <string name="text_out" />
+    <string name="text_g">Gender</string>
+    <string name="text_h">Hobbies</string>
+    <string name="text_city">City of birth</string>
+    <string name="date_b">Date of birth</string>
+    <string name="button_date_b">dd/mm/aa</string>
+    <string name="text_f">Formulary of Register </string>
+    <string name="verf1">Empty fields, check your information</string>
+    <string name="verf2">Passwords do not match, please check</string>
+    <string name="inf">Name: %s Email: %s Password: %s Gender: %s Hobby: %s City of birth:%s Date of birth:%s</string>
+    <string-array name="city">
+        <item>Cali,Valle</item>
+        <item>Medellin,Ant</item>
+        <item>Manizales,Caldas</item>
+        <item>Pereira,Caldas</item>
+        <item>Popayan,Cauca</item>
+    </string-array>
+</resources>
